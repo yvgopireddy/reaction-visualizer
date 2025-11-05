@@ -44,4 +44,4 @@ def make_figs(Ea_kJ=50.0, T_now=298.0, logA=13.0, prod_offset_kJ=-20.0):
     ax2.set_yscale('log')
     ax2.scatter([T_now], [k_now], zorder=5)
     ax2.set_xlabel("Temperature (K)")
-    ax2.set_ylabel("Rate constant k (s⁻
+    ax2.set_ylabel("Rate constant k (s^-1) [log scale]")
