@@ -37,7 +37,7 @@ streamlit run app.py
 
 ## Live demo
 
-[Add link here once deployed]
+[https://reaction-visualizer-kxxv8pzpwfdfve3ofzxd7g.streamlit.app/]
 
 ## Possible next steps
 
